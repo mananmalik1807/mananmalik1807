@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mananmalik1807
+- 👋 Hi, I’m Manan Malik
 - 👀 I’m interested in Augmented Reality development in all platforms.
 - 🌱 I’m currently working on Unity and Xcode.
 - 📕 I'm learning more about implementing Augmented reality in iOS platform.
