@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manan Malik
 - 👀 I’m interested in Augmented Reality development in all platforms.
 - 🌱 I’m currently working on Unity and Xcode.
-- 📕 I'm learning more about implementing Augmented reality in iOS platform.
+- 📕 I'm learning more about implementing Artificial Intelligence in AR for iOS platform.
 - 💞️ I’m looking to collaborate on projects developed in Extended Reality and iOS development.
 - 📫 How to reach me mailto: Mananmalik1807@gmail.com
 
