@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋🏻 I'm Manan 👨🏻‍💻</h1>
-<h3 align="center">An innovation engineer keen to learn and implement AR/VR projects, along with iOS development</h3>
+<h3 align="center">An innovation engineer keen to learn and implement about AR/VR projects, Metaverse and AI.</h3>
 
 
-- 🔭 I’m currently working on **Augmented Reality in iOS along with AI/ML using Unity and Xcode.**
+- 🔭 I’m currently working on **Virtual Banking in Metaverse with integrated ChatGPT functionality.**
 
-- 🌱 I’m currently learning **Artificial Intelligence and CoreML in Xcode.**
+- 🌱 I’m currently learning **Artificial Intelligence and how to implement it in Metaverse.**
 
-- 👯 I’m looking to collaborate on **iOS development and AR development**
+- 👯 I’m looking to collaborate on **AR/VR projects and building the Metaverse.**
 
-- 🤝 I’m looking for help with **Implementing AI and ML in natively developed iOS applications**
+- 🤝 I’m looking for help with **Implementing AI and ML to improve virtual spaces.**
 
-- 💬 Ask me about **Unity, AR/VR, Swift, C#**
+- 💬 Ask me about **Unity, AR/VR, Swift, C#, iOS development and Metaverse.**
 
 - 📫 How to reach me **Mananmalik18@gmail.com**
 
