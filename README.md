@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻 I'm Manan 👨🏻‍💻</h1>
-<h3 align="center">An innovation engineer keen to learn and implement about AR/VR projects, Metaverse and AI.</h3>
+<h3 align="center">An Innovation Engineer with a passion to push the boundaries of what is possible in the field of AR/VR, Metaverse and AI.</h3>
 
 
 - 🔭 I’m currently working on **Virtual Banking in Metaverse with integrated ChatGPT functionality.**
