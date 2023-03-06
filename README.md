@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Mananmalik18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rkddD9BvuuWJ8hxauujxb-Qahw1Wrhml/view?usp=sharing](https://drive.google.com/file/d/1rkddD9BvuuWJ8hxauujxb-Qahw1Wrhml/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rkddD9BvuuWJ8hxauujxb-Qahw1Wrhml/view?usp=sharing](https://drive.google.com/file/d/1N1ytZ2_5V7WMALaQmlx-xLZ63jrazJae/view?usp=share_link)
 
 - ⚡ Fun fact **MIT Has Computers That can Detect Fake Smiles, so make sure to put on a real one :)**
 
