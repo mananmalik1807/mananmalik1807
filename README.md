@@ -1,28 +1,23 @@
 <h1 align="center">Hi 👋🏻 I'm Manan 👨🏻‍💻</h1>
-<h3 align="center">An Innovation Engineer with a passion to push the boundaries of what is possible in the field of AR/VR, Metaverse and AI.</h3>
+<h3 align="center">A tech enthusiast with a passion for pushing the boundaries of what is possible in the field of AR/VR, AI/ML and the Metaverse.</h3>
 
 
-- 🔭 I’m currently working on **Virtual Banking in Metaverse with integrated ChatGPT functionality.**
+- 🔭 I’m currently working on **Giving a digital Avatar to an LLM.**
 
-- 🌱 I’m currently learning **Artificial Intelligence and how to implement it in Metaverse.**
+- 🌱 I’m currently learning **Using MetaHumans as a face for AI.**
 
-- 👯 I’m looking to collaborate on **AR/VR projects and building the Metaverse.**
+- 👯 I’m looking to collaborate on **AR/VR, AI/ML and building the Metaverse.**
 
-- 🤝 I’m looking for help with **Implementing AI and ML to improve virtual spaces.**
-
-- 💬 Ask me about **Unity, AR/VR, Swift, C#, iOS development and Metaverse.**
+- 💬 Ask me about **Unity, AR/VR, AI/ML, Swift, C#, iOS development and Metaverse.**
 
 - 📫 How to reach me **Mananmalik18@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rkddD9BvuuWJ8hxauujxb-Qahw1Wrhml/view?usp=sharing](https://drive.google.com/file/d/1N1ytZ2_5V7WMALaQmlx-xLZ63jrazJae/view?usp=share_link)
 
 - ⚡ Fun fact **MIT Has Computers That can Detect Fake Smiles, so make sure to put on a real one :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manan-malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-malik" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Manan.Malik.1807/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mananmalik18" height="30" width="40" /></a>
-<a href="https://instagram.com/katha_vachak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katha_vachak" height="30" width="40" /></a>
+<a href="https://instagram.com/jesuismanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katha_vachak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
