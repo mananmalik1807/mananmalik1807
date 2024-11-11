@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏻 I'm Manan 👨🏻‍💻</h1>
-<h3 align="center">A dedicated tech enthusiast, driven to push the boundaries of what is achievable in the realms of AR/VR, AI/ML, and the Metaverse.</h3>
+<h3 align="center">A dedicated tech enthusiast, driven to push the boundaries in the realms of AR/VR, AI/ML, and the Metaverse.</h3>
 
 
-- 🔭 I’m currently working on **Giving a digital Avatar to an LLM.**
+- 🔭 I’m currently working on **Migration of an AI app to GCP, leveraging models in Vertex AI.**
 
-- 🌱 I’m currently learning **Using MetaHumans as a face for AI.**
+- 🌱 I’m currently learning **Training ML and Deep learning models.**
 
-- 👯 I’m looking to collaborate on **AR/VR, AI/ML and building the Metaverse.**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning projects.**
 
-- 💬 Ask me about **Unity, AR/VR, AI/ML, Swift, C#, iOS development and the Metaverse.**
+- 💬 Ask me about **Unity, AR/VR, AI/ML, Unreal Engine Swift, C#, iOS development and the Metaverse.**
 
 - 📫 How to reach me **Mananmalik18@gmail.com**
 
