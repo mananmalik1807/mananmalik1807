@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Mananmaliktech18@gmail.com**
 
-- 👨🏻‍💻 I update all my Certifications and Course Specializations in the repository.
+- 👨🏻‍💻 I update all my Certifications and Course Specialisations in the repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
