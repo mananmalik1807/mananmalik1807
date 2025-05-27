@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋🏻 I'm Manan 👨🏻‍💻</h1>
-<h3 align="center">A dedicated tech enthusiast, driven to push the boundaries in the realms of AR/VR, AI/ML, and the Metaverse.</h3>
+<h3 align="center">Tech enthusiast driven to push boundaries in AI and Machine Learning, fueled by curiosity and innovation🧠 </h3>
 
 
-- 🔭 I’m currently working on **Migration of an AI app to GCP, leveraging models in Vertex AI.**
+- 🔭 I’m currently working on **Agentic AI, RAG, and Transformer Models. Also, deployment on Google Cloud Platform and Microsoft Azure**
 
-- 🌱 I’m currently learning **Training ML and Deep learning models.**
+- 🌱 I’m currently learning **Building AI Agents. Deep Learning and Reinforcement Learning.**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning projects.**
+- 💬 Ask me about **AI/ML, AR/VR, iOS development, and the Metaverse.**
 
-- 💬 Ask me about **Unity, AR/VR, AI/ML, Unreal Engine Swift, C#, iOS development and the Metaverse.**
-
-- 📫 How to reach me **Mananmalik18@gmail.com**
-
-- ⚡ Fun fact **MIT has computers that can detect fake smiles, so make sure to put on a real one :)**
+- 📫 How to reach me **Mananmaliktech18@gmail.com**
 
 - 👨🏻‍💻 I update all my Certifications and Course Specializations in the repository.
 
