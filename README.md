@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast driven to push boundaries in AI and Machine Learning, fueled by curiosity and innovation🧠 </h3>
 
 
-- 🔭 I’m currently working on **Agentic AI, RAG, and Transformer Models. Also, deployment on Google Cloud Platform and Microsoft Azure**
+- 🔭 I’m currently working on **Agentic AI, RAG, and Transformer Models. Also, deployment on Google Cloud Platform and Microsoft Azure.**
 
 - 🌱 I’m currently learning **Building AI Agents. Deep Learning and Reinforcement Learning.**
 
